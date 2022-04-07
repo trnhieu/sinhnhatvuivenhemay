@@ -294,7 +294,7 @@ function reveal() {
   }
 
   var ifrm = document.createElement("img");
-  ifrm.setAttribute("src", "/image/bg01.jpeg");
+  ifrm.setAttribute("src", "image/bg01.jpeg");
   //ifrm.style.width = `${w}px`;
   //ifrm.style.height = `${h}px`;
   ifrm.style.border = 'none';
