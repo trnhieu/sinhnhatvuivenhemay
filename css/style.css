@@ -169,7 +169,7 @@ div#sea {
 
 .icons {
   position: absolute;
-  left: 10px;
+  left: 60px;
   /*top:50%;
   width: 100%;*/
   height: auto;
@@ -180,7 +180,6 @@ div#sea {
   text-align: center;
   display: block;
   max-width: 350px;
-  margin-left: 15px;
 }
 .icons .row span {
   color: #e5e5e5;
