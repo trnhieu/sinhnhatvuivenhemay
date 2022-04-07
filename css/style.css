@@ -436,7 +436,7 @@ div#sea {
   }
 
   .icons .row span {
-    font-size: 56px;
+    font-size: 20px;
   }
 
   #people {
@@ -455,8 +455,8 @@ div#sea {
   }
 
   div#video img {
-    width: 295px;
-    height: 185px;
+    width: 150px;
+    height: 150px;
   }
 
   .moon {
