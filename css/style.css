@@ -169,7 +169,7 @@ div#sea {
 
 .icons {
   position: absolute;
-  left: 20px;
+  left: 10px;
   /*top:50%;
   width: 100%;*/
   height: auto;
@@ -432,7 +432,7 @@ div#sea {
 
 @media (min-width: 1000px) {
   .icons {
-    left: 30px;
+    left: 20px;
   }
 
   .icons .row span {
