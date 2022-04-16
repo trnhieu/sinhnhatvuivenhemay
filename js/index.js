@@ -293,11 +293,11 @@ function reveal() {
     w = 255;h = 155;
   }
 
-  var ifrm = document.createElement("img");
-  ifrm.setAttribute("src");
-  //ifrm.style.width = `${w}px`;
-  //ifrm.style.height = `${h}px`;
-  ifrm.style.border = 'none';
-  document.querySelector('#video').appendChild(ifrm);
+//   var ifrm = document.createElement("img");
+//   ifrm.setAttribute("src");
+//   //ifrm.style.width = `${w}px`;
+//   //ifrm.style.height = `${h}px`;
+//   ifrm.style.border = 'none';
+//   document.querySelector('#video').appendChild(ifrm);
 }
 
